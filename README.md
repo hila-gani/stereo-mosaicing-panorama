@@ -1,8 +1,6 @@
-# stereo-mosaicing-panorama
-
 # Stereo Mosaicing & Panorama Generation
 
-A robust computer vision pipeline designed to transform video sequences into high-resolution, seamless panoramas. The project implements advanced image alignment and stitching techniques to handle camera rotation and translation dynamically.
+A computer vision pipeline for generating panoramas from video sequences using hierarchical image alignment and strip mosaicing.
 
 ## Example Results
 ![Result](result.gif)
